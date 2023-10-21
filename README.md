@@ -14,7 +14,7 @@ The downloaded file will be displayed for save.
 To run the app:
 
 ```python
-pip install gradio pytube ffmpeg
+pip install gradio pytube
 python app.py
 ```
 This will launch the web interface on http://localhost:7860
